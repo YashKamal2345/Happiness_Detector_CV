@@ -1,0 +1,1 @@
+The Happy Face Detector is a Convolutional Neural Network (CNN) for Facial Emotion Recognition (FER). It processes $48 \times 48$ grayscale images to classify them into 7 emotion categories. The model is implemented in a Google Colab notebook, utilizing a JavaScript utility for live webcam capture and OpenCV for face detection and result display.
